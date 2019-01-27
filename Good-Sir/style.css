@@ -32,3 +32,8 @@ html, body, canvas {
 	font-size: 1.2em;
 }
 
+@font-face {
+	font-family: 'Victorian Parlor Vintage Alternate_free';
+	src: url('fonts/victorian parlor vintage alternate_free.otf') format('opentype');
+}
+

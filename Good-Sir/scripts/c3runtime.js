@@ -547,6 +547,7 @@ self.C3_GetObjectRefTable = function () {
 		C3.Plugins.System.Cnds.OnLayoutStart,
 		C3.Plugins.Sprite.Acts.Destroy,
 		C3.Plugins.AJAX.Acts.RequestFile,
+		C3.Plugins.Audio.Acts.Stop,
 		C3.Plugins.Audio.Acts.Play,
 		C3.Plugins.AJAX.Cnds.OnComplete,
 		C3.Plugins.Arr.Acts.JSONLoad,
@@ -694,8 +695,8 @@ self.C3_GetObjectRefTable = function () {
 		() => "On Start",
 () => "history-messages",
 () => "random-messages",
-() => 0,
 () => "",
+() => 0,
 p => {
 const f0 = p._GetNode(0).GetBoundMethod();
 return () => f0();
@@ -771,7 +772,9 @@ return () => n0.ExpObject(n1.ExpInstVar(), 2);
 p => {
 const v0 = p._GetNode(0).GetVar();
 return () => (v0.GetValue() - 1);
-}
+},
+() => 0.5,
+() => 1000
 	];
 }
 
