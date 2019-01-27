@@ -1,0 +1,120 @@
+{
+    "c2array": true,
+    "size": [
+        10,
+        3,
+        1
+    ],
+    "data": [
+        [
+            [
+                "Wife"
+            ],
+            [
+                "Is this really for us?"
+            ],
+            [
+                "Sure it is!"
+            ]
+        ],
+        [
+            [
+                "Brother"
+            ],
+            [
+                "I thought you’d be near..."
+            ],
+            [
+                "But I am!"
+            ]
+        ],
+        [
+            [
+                "Father"
+            ],
+            [
+                "Is this worth?"
+            ],
+            [
+                "Sure!"
+            ]
+        ],
+        [
+            [
+                "Wife"
+            ],
+            [
+                "Darling, why?"
+            ],
+            [
+                "It’s for you!"
+            ]
+        ],
+        [
+            [
+                "Brother"
+            ],
+            [
+                "How are you?"
+            ],
+            [
+                "Can’t you see?"
+            ]
+        ],
+        [
+            [
+                "Father"
+            ],
+            [
+                "It’s a nice day out there..."
+            ],
+            [
+                "It’ll be better when I finish!"
+            ]
+        ],
+        [
+            [
+                "Father"
+            ],
+            [
+                "May I ask you about your family?"
+            ],
+            [
+                "We're just fine!"
+            ]
+        ],
+        [
+            [
+                "Wife"
+            ],
+            [
+                "Dear, I made your favorite dish!"
+            ],
+            [
+                "My dish is WORK!"
+            ]
+        ],
+        [
+            [
+                "Wife"
+            ],
+            [
+                "Can you promise me something?"
+            ],
+            [
+                "Dear god!"
+            ]
+        ],
+        [
+            [
+                "Brother"
+            ],
+            [
+                "If you need something..."
+            ],
+            [
+                "I need to fix these things!"
+            ]
+        ]
+    ]
+}
