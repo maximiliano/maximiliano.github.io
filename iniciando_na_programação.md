@@ -1,4 +1,4 @@
-Documento por Maximiliano Guerra de Medeiros
+Documento por [Maximiliano Guerra de Medeiros]([url](https://github.com/maximiliano))
 
 <!-- MarkdownTOC autolink="true" -->
 
@@ -18,7 +18,7 @@ Documento por Maximiliano Guerra de Medeiros
 
 # Motivação
 
-Com o crescente número de amigos e conhecidos me pedindo indicação para começar na área de programação, juntei algumas dicas avulsas nesse documento para que possa ajudar um pouco quem está perdido.
+Com o crescente número de amigos e conhecidos me pedindo indicação sobre como começar na área de programação, juntei algumas dicas avulsas e tentei deixar mais coerente nesse documento para que possa ajudar um pouco quem está perdido.
 
 # Por onde começar
 
@@ -52,7 +52,7 @@ O que você quiser aprender dá pra achar lá: O Free CodeCamp
 
 https://youtube.com/c/Freecodecamp
 
-# Perfis/canais para seguir:
+# Perfis/canais para seguir
 
 Fala muito de python, django, carreira em geral
 https://instagram.com/henriquebastosnet
@@ -101,7 +101,7 @@ Com a ascenção dos servidores em nuuvem como AWS, Azure, etc em contraste com 
 
 Exemplos de tecnolgia: Docker, Kubernetes, Grafana, Prometheus, Terraform, Jenkins, AWS, Azure, etc.
 
-## "Full Stack"
+## Full Stack
 
 É o profissional que acaba por agregar as responsabilidades tanto do backend quanto do frontend e as vezes até de DevOps.
 
